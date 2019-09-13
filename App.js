@@ -4,6 +4,7 @@ class App extends Component{
       return(
          <div>
             <h1>Hello World, a litte change</h1>
+            <h1>Just warming up</h1>
          </div>
       );
    }
