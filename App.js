@@ -4,8 +4,10 @@ class App extends Component{
       return(
          <div>
             <h1>Hello World, a litte change</h1>
-            <h1>Just warming u</h1>
+            <p data-myattribute = "somevalue">This is the content!!!</p>
+             <p>{2+5}</p>
          </div>
+
       );
    }
 }
